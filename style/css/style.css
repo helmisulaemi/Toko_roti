@@ -1,0 +1,120 @@
+.baru{
+	width:133;
+	height:133; 
+	padding:2px;
+	border:thin solid #CCC; 
+    border-radius:360px;
+	background:#FFF;
+}
+.strip-orange{
+	height:10px;
+	background:#E87E04;
+}
+.tulisan{
+	margin:50px;
+	color:#E87E04;
+	width:140px;
+	height:80px;
+	background:#000;
+	
+}
+.tulisan li{
+	list-style:none;
+}
+.navbar-ingree{
+  background-color: #178361;
+  border-bottom:3px solid #31ebb0;
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ff222222', endColorstr='#ff111111', GradientType=0);	
+}
+.wrap {
+  font-family: "helvetica";
+  width: 350px;
+  top: 50%;
+  background:#FFF;
+  position:absolute;
+  margin: -200px 0px 0px -200px;
+  left: 50%;
+  padding:20px;
+  border:thin solid #F39C12;
+  border-radius: 5px;
+  box-shadow: 0px 1px 0px rgba(243, 156, 18,0.3),inset 0px 1px 0px rgba(243, 156, 18,0.04)
+
+}
+.button {
+	background-color: #F39C12;
+	color: #fff;
+	font:600 14px sans-serif;
+	width: 100%;
+	display: block;
+	margin: 20px auto;
+	border: none;
+	padding: 10px;
+    font-size: 15px;
+}
+.button:hover {
+	background-color: #F9BF3B;
+}
+
+.form{
+	background:transparent;
+	border:1px solid #F39C12;
+	width:93%;
+	padding:10px;
+	font:helvetica;
+}
+aside{
+	position:fixed;
+    top: 10px;
+    left: 225px;
+	height:250px;
+    width: 225px;
+    margin-left: -225px;
+    border: none;
+    border-radius: 0px 0px 10px 0px;
+	overflow-y: auto;
+    background-color: #2C3E50;
+	color:#FFF;
+	bottom: 0;
+    overflow-x: hidden;
+    
+}
+
+figure{
+	width:225px;
+	background:#2C3E50;
+	padding-bottom:40px;
+	border-radius:0px 10px 0px 0px;
+	position:fixed;
+	height:auto;
+	bottom:0;
+	top:270px;
+	overflow-y: ;
+    overflow-x: hidden;
+    padding-bottom: 40px;
+}
+section{
+    padding:20px;
+	top:11px;
+	left:225px;
+	right:0;
+	position:absolute;
+    
+	
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.garis{
+	border-bottom:thin solid #CCC;
+	width:100%;
+	margin:0;
+}
+.head{
+	background:#000;
+	color:#FFF;
+	border-bottom:thin solid #CCC;
+	padding:5px;
+	border-radius:0px 10px 0px 0px;
+    margin:-20px -10px 0px -10px;
+}
